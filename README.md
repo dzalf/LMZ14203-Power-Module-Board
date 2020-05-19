@@ -13,7 +13,7 @@ Information page for the [DC-DC converter Power Module](https://www.tindie.com/p
 6. This board has been designed and populated with high-quality components only.
 6. Easy 3.3V/5.0V selection through a flip of a switch. Note: **DO NOT** hot-swap the voltage (while load or Vin are connected). Disconnect the board before selecting the output voltage.
 
-If you need access to the CAD files, please get in touch. KiCAD design available only!
+If you need access to the CAD files, please get in touch. The first one was a small batch that might need some minor improvements based on your kind feedback and comments. However, based on my tests, so far, so good! I will upload the final version once the design is mature enough. KiCAD design available only!
 
 Cheers!
 
