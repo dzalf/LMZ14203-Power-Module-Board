@@ -1,7 +1,7 @@
 # LMZ14203-Power-Module-Board
 Repository for the LMZ14203 Power Module Simple Switcher DC-DC Converter Board 3.3V/5.0V
 
-Information page for the [DC-DC converter Power Module](https://www.tindie.com/products/ivorycircuits/lmz14203-power-module-33v50v3a-max-fpgasmcus/) specially designed for FPGA/MCU projects that require stable voltage and high power delivery on a compact size board.
+This [DC-DC converter Power Module](https://www.tindie.com/products/ivorycircuits/lmz14203-power-module-33v50v3a-max-fpgasmcus/) was specially designed for FPGA/MCU projects that require stable voltage and high power delivery on a compact size board.
 
 **Characteristics:**
 
